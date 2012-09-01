@@ -1,0 +1,7 @@
+Here's the code that I wrote for TwitterCLDR project during Google Summer of Code 2012:
+  - src/ directory includes classes and modules for the features that I implemented from scratch
+  - spec/ directory contains corresponding unit tests.
+
+Besides implementing new features I made quite a lot of work on restructuring the project and refactoring existing code. You can find a much more detailed history of my work on GitHub – https://github.com/twitter/twitter-cldr-rb/commits/master?author=KL-7 .
+
+Kirill Lashuk.
